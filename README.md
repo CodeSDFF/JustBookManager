@@ -58,7 +58,7 @@ Run the following commands in a Python shell in your project directory in order 
   ```
   Screenshot
 -----
-![screenshot image size](templates/screenshot.png){:height="50%" width="50%"}
+![screenshot](templates/screenshot.png) |width=100
 
 
  
