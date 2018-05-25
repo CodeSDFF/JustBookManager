@@ -58,7 +58,7 @@ Run the following commands in a Python shell in your project directory in order 
   ```
   Screenshot
 -----
-![screenshot](templates/screen.png)
+![screenshot](templates/screenshot.png)
 
  
  
