@@ -59,6 +59,7 @@ Run the following commands in a Python shell in your project directory in order 
   Screenshot
 -----
 ![screenshot](templates/screenshot.png =250x)
+![screenshot](./templates/screenshot.png =250x)
 
  
  
