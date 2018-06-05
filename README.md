@@ -59,7 +59,8 @@ Run the following commands in a Python shell in your project directory in order 
   Screenshot
 -----
 ![screenshot](templates/screenshot.png) 
-<a href="url"><img src="https://github.com/IrinaSerova/JustBookManager/blob/master/templates/screen.png" align="left" width="80%" ></a>
+<p align="center">
+<a href="url"><img src="https://github.com/IrinaSerova/JustBookManager/blob/master/templates/screen.png" align="left" width="90%"></a></p>
 
 
  
